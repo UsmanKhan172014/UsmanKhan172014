@@ -81,7 +81,7 @@ You can click the Preview link to take a look at your changes.
 
 <!--  Snake Matrics  -->
 ---
-![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/usmankhan/UsmanKhan172014/output/github-contribution-grid-snake.svg)
+![dist/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/UsmanKhan2014/UsmanKhan172014/output/github-contribution-grid-snake.svg)
 
 
 <!--  Waka- Weekly Development Breakdown  -->
