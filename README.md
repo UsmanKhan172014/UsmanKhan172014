@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 Always Learning <i>new</i> <b> Tools and more about Modern Technologies.</b>
 - 🎓 Graduation in Information Technology  
 - :round_pushpin: I’m currently working on Blockchain (Solana & Etherium) | MERN STACK
-[![trophy](https://github-profile-trophy.vercel.app/?username=usmankhan172014)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 📫 How to reach me: 
@@ -29,6 +29,7 @@ You can click the Preview link to take a look at your changes.
 :stars: Languages and tools:
 
 >
+[![trophy](https://github-profile-trophy.vercel.app/?username=usmankhan172014)](https://github.com/usmankhan172014)
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
